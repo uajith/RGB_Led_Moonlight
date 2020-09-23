@@ -40,7 +40,7 @@ void loop() {
     analogWrite(BLUEPIN, b);
     delay(FADESPEED);
   } 
-  // fade from teal to blue
+  // fade from teal to blue.
   for (g = 255; g > 0; g--) { 
    analogWrite(GREENPIN, g);
     delay(FADESPEED);
