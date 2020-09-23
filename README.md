@@ -1,1 +1,1 @@
-# RGB_Led_Moonlight
+# Fading moonlight on Multicolor LED Strip
